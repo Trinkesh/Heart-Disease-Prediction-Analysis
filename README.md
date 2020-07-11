@@ -16,7 +16,7 @@ project implemented three machine lerning model using sklearn. RandomForesr,knne
 
 [heart-Disease data set Uci archive](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
-You can download from any both dataset are same.  
+You can download any both dataset are same.  
 
 ![silhouette-photo-of-man-leaning-on-heart-shaped-tree-744667](https://user-images.githubusercontent.com/62785642/87222598-9cb57280-c392-11ea-9a39-2fecbf856641.jpg)
 
