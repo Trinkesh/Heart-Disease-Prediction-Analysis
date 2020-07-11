@@ -9,8 +9,8 @@ making sure that more people can live healthy lives. This is where Machine Learn
 
 ![medical-stethoscope-and-mask-composed-with-red-foiled-4386466](https://user-images.githubusercontent.com/62785642/87222572-49dbbb00-c392-11ea-976a-e05ee1ab158a.jpg)
 
-The project is made to predict heart disease analysis using machine learning algorithms.
-project implemented three machine lerning model using sklearn. RandomForesr,knneighbores,Logestic Reggresion algorithams been used to perform heart disease analysis.
+The project is made to predict heart disease analysis using machine learning algorithms and to analysis using visualization.
+project implemented three machine lerning model using sklearn.RandomForest,knneighbores,Logestic Reggresion algorithams been used to perform heart disease analysis.
 
 [The dataset I used from kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
 
